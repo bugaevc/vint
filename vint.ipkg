@@ -1,0 +1,5 @@
+package vint
+
+modules = Vint.Main, Vint.Curses, Vint.Buffer, Vint.Util
+main = Vint.Main
+executable = vint
